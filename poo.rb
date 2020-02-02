@@ -1,3 +1,3 @@
 string = 'abc def ghi'
-a = sring.split
+a = string.split
 puts a
