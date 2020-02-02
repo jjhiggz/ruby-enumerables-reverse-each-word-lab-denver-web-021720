@@ -1,6 +1,6 @@
 string = 'whats up bro?'
 a = string.split
-a.map.reverse do
+a.map do
 
 end
 b = a.join(' ')
