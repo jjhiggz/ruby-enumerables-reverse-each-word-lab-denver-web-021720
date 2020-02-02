@@ -1,3 +1,3 @@
-string 'abc def ghi'
+string = 'abc def ghi'
 a = sring.split
 puts a
