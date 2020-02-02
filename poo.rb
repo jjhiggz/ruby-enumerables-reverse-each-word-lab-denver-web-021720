@@ -1,3 +1,4 @@
+require 'pry'
 string = 'whats up bro?'
 a = string.split
 a.map do |n|
